@@ -1,0 +1,9 @@
+#+TITLE: Apuntes de diversas materias
+
+[[./README.assets/cover.png]]
+
+- Trigonometría
+- Geometría Analítica
+- Precálculo
+- Cálculo diferencial
+- Cálculo integral
